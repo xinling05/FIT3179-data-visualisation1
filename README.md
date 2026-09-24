@@ -1,6 +1,6 @@
 # FIT3179 Data Visualisation 1
 
-## Australia's Streaming Revolution
+## Australia's Streaming Revolution: How Television Viewing Is Changing
 
 An interactive Tableau visualisation exploring changes in Australian television and streaming behaviour using data from ACMA and ABS.
 
