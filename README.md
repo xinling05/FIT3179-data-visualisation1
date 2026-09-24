@@ -5,8 +5,7 @@
 An interactive Tableau visualisation exploring changes in Australian television and streaming behaviour using data from ACMA and ABS.
 
 ### Live Visualisation
-[View on Tableau Public](https://public.tableau.com/app/profile/xin.ling.chong/viz/XinLingChongsFIT3179DataVisuali
-sation1/AustraliasStreamingRevolutionHowTelevisionViewingIsChanging)
+[View on Tableau Public](https://public.tableau.com/app/profile/xin.ling.chong/viz/XinLingChongsFIT3179DataVisualisation1/AustraliasStreamingRevolutionHowTelevisionViewingIsChanging)
 
 ### Project Highlights
 - analysed streaming and traditional television trends
